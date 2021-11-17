@@ -8,7 +8,8 @@
 
 
 body{
-    background-color: #161b22;
+    --background-color: #161b22;
+    background-image: url(./image/background.jpg);
 
 }
 .link-bio{
